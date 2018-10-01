@@ -1,2 +1,9 @@
 language: node_js
 node_js: node
+deploy:
+  provider: heroku
+  api_key:
+    secure: bSgI2j8u983SQR1mGXD4dh5MAwlLM6eijVu/jcb2hq3OpDW/nn4ysSShBY6tkb7NcrEv+gPNlxF36BBwMb9FpGkGMUWX2eiAAx8JRuYBJkPoNnGxUcqN/zcHF3sW9x5htOTHuO0ps5joapRF64uqDm7x2/Kz3VFKdjupOxbyeIEBTUsWNns9cKxjbOT8Q/lkRs+SssdwsMkQG2pTOzLH2jk7ImuQX4/LT50xFRr39tQgUiuSXB6f916eZCXYHbPBZCTVtXG5gvZ+zH8Vu6PVa91UtVWh9YBPNDuSMzl1WQawtmJXYmrlTwfLJbMS9f3T3I3soqGBjH0Tf8ikIb/lUFwE6mVrTIxL7ovhzbtJXPBO6KL1odDmA7SYcRbaBRpIgRlN7uvUuAwYU3r37/8i9tZNcmYhhpqmhf8Gi2fUnADuwylIVs/Aumt0QKlduu+iDravrBIqDJUvYfP1iVkzjqU8Dhj8kKHwLN2q/88zyHZQRLUeGpSfoBmYn+caG9DIz/peu03yXk8rYlH+KWWWgN4IoHZ1wApeITF9Ywpo3o+Zu7+EUoHt8wETJ6rD21MNmM7ZCjiKL7gCcVtYORQA5Mj+BkzYUPkhuXk8Oz7RF9J/zJELkxVOtUHna1KSLbq/nftduYbFDPafsJvcaERpgHpTfpTuyHl0PqZMYEmJfbo=
+  app: https://fierce-tundra-76457.herokuapp.com/
+  on:
+    repo: Laurn17/https-github.com-Thinkful-Ed-node-shopping-list-integration-tests
