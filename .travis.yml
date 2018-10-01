@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: bOykVKoaM8MiNNPwVEPeshx4W2Y2Sr5J+IJb1AHx+ZW9uJsZ22+VsKgyJha+12cgRqp6ILIKqAwSdmiFybBNsbf/IssuZ374RVgn+7yaA/+FAx44egVwI+mQWZ48WCAYw6RP/Qyv/al6JjDq1iZXZB+XjTi8TXaCzsR136k9RRE80v2iHnSwSPU0T5pD5DSuvQzRk79r2NkZnbORyo8LUjtGcPHRW1xieepSHA4QkbNvhFZhs9UZRzqrN64dwflynJev71qk+rgnxHUNmypRJ709cApmAFAsxlzDUKPPu1s1lAh2F0MAeTJ6lBZQSOaj9b5C/GX3s6Fzz99FnvCK8MHzcslzd18J9FcjzZBUKFc33AjBvaKgqfeu/dnjR5p1Sm073YUyjzOoV/RMvIPDZoA5pug3Jx4zPXQcdEoZQzTex4pqHjXHKa1lvDKndZd73pT5rqoAe4tnn/TWrgTQKkZrmN7SdGh057YG25FXcxK5e4o/9IL6X4FsvEdyT0mQursCt/m5PD9Gl4jBmA1JEIRGYpnUPbOsHFrucZ4/vcELZebVn+M+Ywj0yNxjsVZ5Q470c7tgdYp5FxbV7dxrNZchFzj6Rl/8kIawbeCDf1W8pLjCUirnTyr2kDz9zBi6Ne5CqBG3tVLuzmlnNmQR5SJYSRLIEBlunPyGcfjtVuc=
-  app: https://hidden-bastion-75586.herokuapp.com/
+  app: https://git.heroku.com/hidden-bastion-75586.git
   on:
     repo: Laurn17/https-github.com-Thinkful-Ed-node-shopping-list-integration-tests
